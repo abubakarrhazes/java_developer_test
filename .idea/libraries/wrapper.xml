@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/extensions/gson/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/extensions/jackson/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/extensions/orgjson/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../jjwt-0.11.2/impl/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
